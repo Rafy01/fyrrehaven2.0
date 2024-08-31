@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'; // Sikre at React er importeret
 import Header from './header';
 import './index.css';
 
@@ -15,3 +15,4 @@ function App() {
 }
 
 export default App;
+
